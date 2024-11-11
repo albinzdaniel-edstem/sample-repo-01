@@ -1,3 +1,3 @@
 first line
-second line
-hello world!
+second
+hello new world!
